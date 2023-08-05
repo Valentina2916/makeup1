@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "lapiz labial",
+        "price": 5000,
+        "description": "lapiz labial matte color rojo de alta duracion ",
+        "image": "http://localhost:3000/image/RareBeautyLabial.jpg"
+    },
+    {
+        "id": 2,
+        "name": "mascara de pestañas",
+        "price": 18000,
+        "description": "mascara de pestañas a prueba de agua",
+        "image": "http://localhost:3000/image/mascada.webp"
+    },
+    {
+        "id": 3,
+        "name": "base loquida",
+        "price": 25000,
+        "description": "base con cobertura media y acabado semi matte",
+        "image": "http://localhost:3000/image/base.jpg"
+    },
+    {
+        "id": 4,
+        "name": "rubor loquido",
+        "price": 10000,
+        "description": "rubor en crema supermodulable para difuminar",
+        "image": "http://localhost:3000/image/rubot.jpg"
+    },
+    {
+        "id": 5,
+        "name": "fijador de makeup",
+        "price": 12000,
+        "description": "fija e hidrata tu piel",
+        "image": "http://localhost:3000/image/fijador.jpg"
+    },
+    {
+        "id": 6,
+        "name": "natalia",
+        "price": 12000,
+        "description": "fija e hidrata tu piel",
+        "image": ""
+    }
+]
